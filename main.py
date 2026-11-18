@@ -8,3 +8,4 @@ print("Output from feature-branch")
 <<<<<<< HEAD → everything between here and ======= is the current branch (main) version
 ======= → divider between the two conflicting versions
 >>>>>>> feature-branch → everything between ======= and here is the incoming branch version
+print("Output from feature-branch")
