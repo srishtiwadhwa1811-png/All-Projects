@@ -10,3 +10,4 @@ print("Output from feature-branch")
 >>>>>>> feature-branch → everything between ======= and here is the incoming branch version
 print("Output from feature-branch")
 print("Output from main branch")
+print("Output from feature-branch")
