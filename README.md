@@ -1,5 +1,5 @@
-# [Your Full Name] — Developer Portfolio
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+# Srishti — Developer Portfolio
+> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2026-30
 ---
 ## Repository Index
 | Repository | Description | Tech Stack | Status |
