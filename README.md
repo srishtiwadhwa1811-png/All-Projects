@@ -1,6 +1,6 @@
 # Hi, I am Srishti!
 ## About Me
-- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2026–30)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in: [Cybersecurity / AI-ML / Full-Stack Development / Data Science]
 ## Technical Skills
